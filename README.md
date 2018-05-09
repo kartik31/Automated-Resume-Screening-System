@@ -14,7 +14,7 @@ Pandas
 Sklearn
 
 Python 3.6.0 |Anaconda 4.3.0 (64-bit)
-#Run Method
+# Run Method
 Run file app.py in resumizer-master
 
 run command
