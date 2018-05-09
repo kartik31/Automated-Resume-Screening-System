@@ -6,9 +6,14 @@ Used recommendation engine techniques such as KNN, content based filtering and e
 
 # Packages
 Gensim
+
 Numpy==1.11.3
+
 Pandas
+
 Sklearn
+
 Python 3.6.0 |Anaconda 4.3.0 (64-bit)
+
 # Made By
 CodeByte
