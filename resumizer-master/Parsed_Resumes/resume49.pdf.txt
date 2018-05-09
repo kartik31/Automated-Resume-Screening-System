@@ -1,0 +1,105 @@
+Software Engineer in pl/sql developer in Wipro Technologies, Electronics 
+City Phase 1, Electronic City,bangalore.
+Bengaluru, Karnataka
+•
+
+Having 2.6+  years of experience in Oracle ( SQL and PL/SQL) and 
+Unix. • Exposure to work on Production support and Development. • 
+Writing code for enhancing existing programs or developing new 
+programs. • Good knowledge about developing oracle database objects 
+like Stored Procedures, Functions, Triggers, Cursors, Packages etc. • 
+Used advanced oracle PL/SQL concepts like Collections, Dynamic SQL, 
+SQL* Loader  etc. • Proficient creation/modification of database 
+objects like Tables, Sequences, Synonyms, View, Materialized view. • 
+Exposure to write Joins and Sub queries. • Efficient in Exception 
+Handling in PL/SQL. • Involved Explain plan and investigate the 
+performance issues. • Good knowledge of UNIX commands. • Experience of 
+good client interaction and to deal with their requirements. • Good 
+experience of coordinating with various teams like Deployment, Testing 
+Team to speed up development process.
+Willing to relocate to: Bangalore City, Karnataka - hyderbad, Telangana - 
+Chennai, Tamil Nadu
+Work Experience
+Software Engineer
+Wipro Technologies, Electronics City Phase 1, Electronic City
+Bengaluru, Karnataka
+October 2015 to Present
+OCT 2015 to till date
+software engineer
+wipro technologies,electronic city phase 1,bangalore
+oct-2015- till date
+Education
+B.TECH
+Jawaharlal Nehru Technology University-Kakinada
+Kakinada, Andhra Pradesh
+Skills
+cursors
+Oracle Pl/Sql
+Pl/Sql
+functions
+sql server
+packages
+procedures
+Unix Shell Scripting
+Additional Information
+. TECHNICAL SKILL:  Operating Systems: Windows family, Linux Database: 
+Oracle 10g, 11g, 12c Languages: SQL, PL/SQL, UNIX (shell scripting) Tools: 
+PL/SQL Developer, Sql developer, SQL* plus  PROJECT 1: MEDMANTRA  Client: 
+Apollo Hospitals Enterprise Limited, India, Apollo IMCL Apollo Hospitals, 
+Delhi. Application &amp; Web Server: .NET Framework 3.0, IIS 6.0, MS Visio 
+2003, Visual SourceSafe 6.0 Client, MS Visual Studio 2005, Windows Server 
+2003 Enterprise Edition, Windows Work Flow 2.2 (Beta Version) Database 
+Server: Oracle 11G File &amp; Print Server: VSS 6.0, MS Office 2003. Role: 
+PL/SQL Developer  Team: 13 Duration: Dec 2016 to Till Date. Project 
+Description Enterprise Health Information Systems. First Product of TCS in 
+healthcare domain. Apollo Hospitals, a leading Corporate in Indian Health 
+
+Market. As part of Apollo Hospitals Vision and plans to upgrade the 
+current software applications to meet their future business objectives and 
+achieve its goal of being among world class organizations that are able to 
+sustain high level of performance in productivity and quality. Both TCS 
+and Apollo joined together to design and develop EHIS.TCS would develop / 
+customize its EHIS product and offer to Apollo Hospitals a fully 
+computerized environment that ensures efficient administration, including 
+proper storage and retrieval of patient records, which facilitates 
+integrated treatment. The scope of work includes delivering functionality 
+in the areas of Patient Management, Patient Accounting, Radiology, 
+Operations Theatre, Pharmacy, Medical Affairs, Finance, Clinical 
+Management, Material Management, HR and Payroll, Customer Relations and 
+Management and Electronic Medical Records. Responsibilities:  • Designed 
+and Developed Billing and MIS Modules Worked For L2 Support During 
+Implementation of Project to Solve The issues Raised  on                 
+the Ground • Developed Complex Functions, Procedures • Involved In Coding 
+Of Data Base Triggers. • Involved In database Testing • Involved In 
+Preparation Of Program Specification • Creating Tables and Checking 
+Constraints • Understanding The Business Of Client and Preparing The 
+Specifications • Documenting the Gap Analysis • Designing the E-R Diagrams 
+of database using Microsoft Visio • Creating the database in Test 
+Environment Using DBCA and Manual • Tuning Of Stored Procedure as Per 
+Requirement.  Project 2: OFLINE DATA ENTRY MODULE (ODEM)  Client: Oriental 
+Bank Of Commerce  Type: Enhancement &amp; Support  Environment: SQL, 
+PL/SQL, UNIX, Shell Scripting  Role: Production Support Engineer  Domain: 
+Banking  Team size: 8  Duration: JAN 2016 to NOV 2016.  Description: ODEM 
+is a browser based Portal which will help in Account Activation. 
+Activation of Accounts is categorized into Maker and checker concept which 
+allows the users from the Front end to provide the accurate data for the 
+Accounts which are being opened. Verifier then chooses the right 
+information and approves the data entered by the maker and Checker. At 
+different time intervals interface is invoked and collects all the 
+Approved records separately in a specific file format and sends the data 
+for activation to Profile. Once activated, these accounts are read as 
+Generated. Roles &amp; Responsibilities: Monitor application services 
+(Apache Tomcat) status. ➢ Monitor application status by logging into 
+application. ➢ Monitor disk space availability if it goes below the 
+threshold limit take necessary steps to clear some space. ➢ Check every 
+hour fresh customers upload from profile. ➢ Check every hour fresh 
+accounts upload from profile. ➢ Check every hour Account activation file 
+upload to profile ➢ Check BMC for issues/requests being logged under ODEM 
+category and resolve. ➢ Check log file for known issues. ➢ If not 
+identified co-ordinate with Development team. ➢ If there are bugs 
+identified then raise BUG CR. ➢ Restart tomcat service after taking logs 
+back up. ➢ Account is in Approved status but not Generated. ➢ Unable to 
+delete the Accounts with mismatch of CIF counts.
+Updated: 23 April 2018
+
+

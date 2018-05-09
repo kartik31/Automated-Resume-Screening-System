@@ -1,0 +1,82 @@
+Software Engineer - Yatra TG Stays Online Pvt. Ltd
+Bengaluru, Karnataka
+Currently working as Software Engineer at Yatra TG Stays Online Pvt. Ltd. 
+with total work experience of 4.6 Years. - Worked as Software Engineer at 
+Accenture Services Pvt. Ltd through Pyramid IT Consulting Services. - 
+Exposure in delivering issue fixes in a time sensitive model. - Have 
+exposure in application development &amp; maintenance -gained strong 
+experience in database, requirement gathering, development, enhancement 
+and bug fixing. - Executed various projects using technologies such as 
+Core Java, MySql, MSSql, Linux/Unix, Shell scripting, Mongo DB queries. - 
+Have been a part of multiple application software releases &amp; 
+production issues and have delivered defect free changes. - Strong 
+communication, collaboration &amp; interpersonal skills with proficiency 
+in grasping new technical concepts quickly and utilizing them in an 
+effective manner. - Hands-on experience in debugging production issues and 
+providing containment/permanent resolution within the SLA. - Undergone 5 
+months of training in Java/J2EE at Lara Technologies, Bangalore.
+Willing to relocate: Anywhere
+Work Experience
+Software Engineer
+Yatra TG Stays Online Pvt. Ltd
+July 2015 to Present
+Project/Application: Yatra &amp; Travelguru Hotels Team Role: Java 
+development and Maintenance Description: Yatra.com is an Indian online 
+travel agency and a travel search engine with many online customers as 
+well as B2B Partners across all over in India. Project for technology part 
+is developing &amp; maintaining various front-end and back-end 
+applications, services, Jobs, Schedulers which are being used in Yatra 
+&amp; Travelguru hotels platform to make the user experience better and as 
+well as build a stable system.  Roles/Responsibilities: - Developing 
+various automation feature in java to reduce the database load and manual 
+dependency. - Troubleshoot problems and understanding them to provide the 
+workaround/fix. - Development of database (Jasper) reports which is being 
+used by various teams and stakeholders. - Involvements in Database 
+management - Shell scripting, Mongo, Mysql and MSSql DB queries. - Fixing 
+website issue and coordinating with stakeholders, B2B partners in terms of 
+technology related issues. - Worked on several production (front-end and 
+back-end) issues &amp; feature development for Yatra/Travelguru website 
+which needs existing services to be modified. - Resolving or providing 
+workaround for the issue with various production API's which is being used 
+by different meta partners. - Monitoring and analysis of logs to provide 
+on time resolution.
+Software Engineer
+Accenture Services Pvt. Ltd
+September 2013 to July 2015
+Project/Application: Socrates 7 Client: SpecSavers Team Role: Production 
+Enhancement and Maintenance Description: Socrates 7 is a standalone 
+application developed in Java which is built for handling customer 
+information in Specsavers retail stores based in multiple countries. 
+Socrates 7 handles customer information right from their appointment to 
+finished frame/lens details including  account details. It is also 
+integrated with POS system to dispense spectacles in case of framed 
+glasses &amp; Lens mail order system to dispatch contact lenses to the 
+customers who prefer contact lenses. The project at Accenture is to 
+
+provide production support to the Socrates 7 application &amp; its 
+associated systems. It includes activities like application behaviour 
+customization as per client needs, developing the expected behaviour which 
+is currently not working, integration with 3rd party Lab order processing 
+software. Roles/Responsibilities: - Study of the requirements, design 
+documents and understanding them. - Designing of the new implementation, 
+development and Unit testing the module to roll-out best quality 
+deliverables. - Attended production issues and assigned requests to 
+provide a quick workaround. - Involvements in Database management - 
+writing procedures, shell scripting. - Fixing issue and coordinating with 
+System integration &amp; testing teams.
+Skills
+Ant. (3 years)
+GIT (3 years)
+J2EE (4 years)
+Java (4 years)
+Mysql (4 years)
+mongo (2 years)
+Additional Information
+SKILL SET ◦ Core Java, Mysql, MSSql, Mongo DB. ◦ Knowledge of J2EE 
+technologies: JDBC, Struts, Servlets, Spring, Hibernate and JSP. ◦ 
+Understanding of various API's. ◦ Understanding of Software Development 
+Life Cycle (SDLC). ◦ Aware of build tools such as Maven, Ant. ◦ Aware of 
+version control tools such as SVN, GIT repositories.
+Updated: 23 April 2018
+
+

@@ -1,0 +1,21 @@
+Design and develop algorithmic solutions and models for mission-critical problems, delivering high-accuracy and performance in data extraction
+Contribute in all phases of the Product Development Lifecycle
+Creating efficient solutions and methodologies to address problems related to Real Time Bidding (RTB) such as bid optimization, publisher quality, and audience expansion
+Optimize implementations for maximum speed, performance and scalability
+
+Excellent programming skills - (at least one of) Python/Java
+Experience with ML tools and libraries such as Scikit-learn, R, Spark, TensorFlow
+Strong background in learning algorithms (multi-class classifications, decision trees, support vector machines and deep learning)
+Experience with Unix/Linux
+A willingness to dive deep, experiment rapidly and get things done
+BE/BTech/MTech or a related technical discipline from reputed universities
+Attention to detail, data accuracy, and quality of output
+Being passionate about creating great products and experiences for our customers
+Strong analytical skills are necessary as the work involves projecting outcomes and isolating issues that need to be resolved to make programs more effective
+3+ years of experience applying machine learning and NLP to solving real-world problems
+High levels of creativity and quick problem solving capabilities, a self-starter with goal-driven focus. 
+You get valuable insights into mobile marketing/entrepreneurship and have a high impact on shaping the expansion and success of AppLift across India
+Profit from working with European Serial Entrepreneurs who co-founded over 10 successful companies within the last 8 years and get access to a well-established network and be able to build your own top-tier network & reputation
+Learn and grow in an environment characterized by flat hierarchy, entrepreneurial drive and fun
+You experience an excellent learning culture
+Competitive remuneration package and much more!

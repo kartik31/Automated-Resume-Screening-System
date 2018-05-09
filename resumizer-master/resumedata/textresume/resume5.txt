@@ -1,0 +1,54 @@
+Yi Yang  Contact  Interests  Education  Mobile: (+1) 949-272-6066 Email: yangyi05@baidu.com, yangyi02@gmail.com Webpage: http://www.ics.uci.edu/~yyang8  Baidu USA LLC 1195 Bordeaux Drive Sunnyvale, CA, 94089  Deep Learning, Computer Vision, Machine Learning, Reinforcement Learning  University of California Irvine   Ph.D. in Computer Science   Advisor: Prof. Deva Ramanan, co-advisor: Prof. Charless Fowlkes Hong Kong University of Science & Technology   M.Phil. in Industrial Engineering and Logistic Management   Advisor: Prof. Je  Hong Tsinghua University   B.S. in Automation   Top 10% with Excellent Graduation Award  2008 - 2013 GPA: 3.95/4.0  2006 - 2008  GPA: 3.5/4.0  2002 - 2006  GPA: 3.8/4.0  Experience Baidu Research, Silicon Valley  Research Scientist, Institute of Deep Learning   Dynamic computational time for visual attention model.   Semantic image segmentation with deep convolutional neural networks.   Object detection with deep convolutional neural networks.   Image captioning and question answering with multimodal recurrent neural networks.   Learning from massive noisy labeled data for visual classi cation.   Feedback neural networks for object detection and  ne-grained recognition.  10/2013 - Present Sunnyvale, CA  Google, Mountain View Software Engineer Intern, Google Shopping Team Mentor: Emilio Antunez, co-mentor: Tianli Yu   Large scale human pose estimation for visual fashion clothing retrieval.  06/2012 - 09/2012 Mountain View, CA  Microsoft Research, Silicon Valley Research Intern, Interactive Visual Media Lab Mentor: Simon Baker, co-mentor: Anitha Kannan   Proxemics recognition for multiple people interactions in personal photo albums.  06/2011 - 09/2011 Mountain View, CA  University of California Irvine Research Assistant, Computer Vision Lab Advisor: Prof. Deva Ramanan, co-advisor: Prof. Charless Fowlkes   Human detection and parsing under occlusion and truncation.   Articulated pose estimation with  exible mixtures-of-parts.   Layered object detection for multi-class image segmentation.  09/2008 - 08/2013 Irvine, CA  Publications 20. Zhichao Li, Yi Yang, Xiao Liu, Shilei Wen, Wei Xu,  Dynamic Computational Time for  Visual Attention , in Arxiv 2017. 19. Xiao Liu, Tian Xia, Jiang Wang, Yi Yang, Feng Zhou, Yuanqing Lin,  Fully Convolu- tional Attention Networks for Fine-Grained Recognition , in Arxiv 2016. 18. Liang-Chieh Chen, Yi Yang, Jiang Wang, Wei Xu, and Alan L. Yuille,  Attention to Scale: Scale-aware Semantic Image Segmentation , in CVPR 2016. 17. Jiang Wang, Yi Yang, Junhua Mao, Zhiheng Huang, Chang Huang, Wei Xu,  CNN- RNN: A Uni ed Framework for Multi-label Image Classi cation , in CVPR 2016. (Oral; Acceptance Rate: 3.9%)  16. Haonan Yu, Jiang Wang, Zhiheng Huang, Yi Yang, Wei Xu,  Video Paragraph Cap- tioning Using Hierarchical Recurrent Neural Networks , in CVPR 2016. (Oral; Acceptance Rate: 3.9%) 15. Lichao Huang, Yi Yang, Yafeng Deng, Yinan Yu,  DenseBox: Unifying Landmark Localization with End to End Object Detection , in Arxiv 2015. 14. Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille,  Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images , in ICCV 2015. 13. James Supan ci c, Gregory Rogez, Yi Yang, Jamie Shotton, Deva Ramanan,  Depth-based hand pose estimation: data, methods, and challenges , in ICCV 2015. 12. Chunshui Cao, Xianming Liu, Yi Yang, et al.,  Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks , in ICCV 2015. 11. Tong Xiao, Tian Xia, Yi Yang, Chang Huang, Xiaogang Wang,  Learning from Massive Noisy Labeled Data for Image Classi cation , in CVPR 2015. 10. Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang and Alan Yuille,  Deep Captioning with Multimodal Recurrent Neural Networks , in ICLR 2015. 9. Junhua Mao, Wei Xu, Yi Yang, Jiang Wang and Alan Yuille,  Explain Images with Multimodal Recurrent Neural Networks , in NIPS workshop 2014. 8. Golnaz Ghiasi, Yi Yanural Networks”, in ICLR 2015.
+9. Junhua Mao, Wei Xu, Yi Yang, Jiang Wang and Alan Yuille, “Explain Images with
+Multimodal Recurrent Neural Networks”, in NIPS workshop 2014.
+8. Golnaz Ghiasi, Yi Yang, Charless Fowlkes and Deva Ramanan, “Parsing Occluded Peo-
+ple”, in CVPR 2014.
+7. Krishnan Ramnath, Simon Baker, Lucy Vanderwende, Motaz El-Saban, Sudipta Sinha,
+Anitha Kannan, Noran Hassan, Michel Galley, Yi Yang, Deva Ramanan, Alessandro Berg-
+amo, and Lorrenzo Torresani, “AutoCaption: Automatic Caption Generation for Personal
+Photos”, in WACV 2014.
+6. Yi Yang and Deva Ramanan, “Articulated Human Detection with Flexible Mixtures-of-
+Parts”, in PAMI 2013.
+5. Yi Yang, Simon Baker, Anitha Kannan and Deva Ramanan, “Recognizing Proxemics in
+Personal Photos”, in CVPR 2012.
+4. Yi Yang, Sam Hallman, Deva Ramanan and Charless Fowlkes, “Layered Object Models
+for Image Segmentation”, in PAMI 2012.
+3. Yi Yang and Deva Ramanan, “Articulated Pose Estimation with Flexible Mixtures-of-
+Parts”, in CVPR 2011. (Oral; Acceptance Rate: 3.5%)
+2. Jeﬀ Hong, Yi Yang, and Liwei Zhang, “Sequential Convex Approximations to Joint
+Chance Constrained Programs: a Monte Carlo Approach,” in OR 2011.
+1. Yi Yang, Sam Hallman, Deva Ramanan and Charless Fowlkes, “Layered Object Detection
+for Multi-Class Segmentation”, in CVPR 2010. (Oral; Acceptance Rate: 4.5%)
+
+Activities
+and Awards
+
+Baidu Top Performer Awards ((cid:28) 1%)
+Conference Review: NIPS, CVPR, ICCV, ECCV, etc.
+Journal Review: PAMI, IJCV, etc.
+Research Fellowship, UC Irvine
+ICS Fellowship Award, UC Irvine
+Research Fellowship, HKUST
+Excellent Graduation Award, Tsinghua University
+Undergraduate Student Fellowship, Tsinghua University
+3rd Prize of Chinese National Chemistry Olympiad
+1st Prize of Chinese National Mathematics Olympiad
+
+2016
+2012 - 2015
+2012 - 2015
+2011 - 2013
+2008 - 2011
+2006 - 2008
+2006
+2003 - 2005
+2001
+2001
+
+Computer
+Skills
+
+Languages: Python, C, C++, Matlab, HTML, Java, Javascript.
+Tools: Linux Shell, Vim, PyTorch, Caﬀe, Tensorﬂow, Torch, OpenCV, Latex, GNU Make.
+
+

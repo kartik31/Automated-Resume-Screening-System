@@ -1,0 +1,100 @@
+Software Engineer - Flextronics technologies (India) Pvt ltd
+Bengaluru, Karnataka
+✓ 2 years of experience in software application development using .Net 
+technology solutions. ✓ Having hands on experience in developing 
+applications using Dot Net technologies like ASP.Net, ADO.Net, C#, MS SQL 
+Server, SSRS. ✓ As experienced, detail-oriented MES with strong problem 
+solving &amp; Project management skills. Expertise in MES (Manufacturing 
+Execution Systems) Application implementation, SQL Production databases 
+and being a part the Team size of (7) MES support Engineer's to resolve 
+the day to day Shop floor issues. Flex Flow is a shop-floor control data-
+collection system that helps to improve production efficiency. Currently 
+working with Flex Technologies in Bangalore. ✓ Extensive experience in 
+requirement gathering, implementation, Validation and support 
+manufacturing applications in electronic manufacturing company. ✓ 
+Consulting: Functional expertise in complete life cycle implementation of 
+manufacturing execution systems (MES)  ✓ Strong understanding of BAAN SCM 
+modules (Inventory, BOM (Bill of Material), WIP (Work in progress) and 
+Purchasing)  ✓ Project Management: Gather project requirements, phase 
+deliverables and project targets in direct liaison with client manager. 
+Monitor progress and track issues.  ✓ System design: Knowledge of 
+Client/Server Architecture, Process control systems and Analysis 
+Systems.  ✓ Support: Analyze, prioritize, resolve issues and coordinate 
+with on-site support team for major changes  ✓ Providing both on-site and 
+remotely supporting to Delhi, Mumbai and Kolkata Sites also.  ✓ Experience 
+in database administration activities like Installation, configuration, 
+Backup &amp; restoring, Database security and Data Transformation 
+services.  ✓ Migrating and upgrades the databases.  ✓ Experience in 
+creation of user/production databases.  ✓ Regular Backup and testing the 
+backup for recovery.  ✓ Experience in generating various kinds of reports 
+based on the customer requirement with graphical chart using SQL Server 
+Reporting Service.  ✓ Regularly apply the new patches for the SQL 
+Server.  ✓ Scheduling / Monitoring DB Jobs ✓ Interacting with clients for 
+functional requirements. ✓ Participated in Software Development Life Cycle 
+including development, testing, implementation and maintenance of 
+client/server and web applications. ✓ Has the motivation to take 
+independent responsibility as well as ability to contribute and be a 
+productive team player. ✓ Excellent programming, analyzing, interpersonal 
+and communication skills. ✓ Good team member, positive attitude and self-
+motivated, quick Learner, willing to adapt to new challenges and new 
+technologies.
+Willing to relocate to: Bangalore Urban, Karnataka
+Work Experience
+Software Engineer
+Flextronics technologies (India) Pvt ltd
+Bengaluru, Karnataka
+April 2016 to Present
+Bangalore Duration: Apr 2016 to Till-date Designation: Software 
+Engineer. Clients: HTC, WD, SUN, DELL, CISCO, NSN, LeEco, MICROSOFT, 
+LENOVO, VERIFONE, CITRIX, SAMSUNG, ORACLE. Area: MES Implementation, 
+Handling Production Databases &amp; SSRS. Environment: SQL Server 2005, 
+
+2008R2, SSRS  ROLES AND RESPONSIBILITIES ➢ Gather project requirements, 
+phase deliverables and project targets with client manager to monitor 
+progress and track issues. ➢ Preparing test cases with functional test 
+scenarios/steps to cover requirements defined in the use case 
+documents. ➢ Levels of discussion with Customers to understand the 
+requirement for application development. ➢ Involved in functional setups 
+of BAAN ERP manufacturing modules (Inventory, BOM (Bill of Material) and 
+Purchasing. ➢ Creating, Configuring and Maintaining Routes in flex flow 
+(MES application) to Process the Products in Line. ➢ Setting up 
+environments for development, packaging, simulation, training, load 
+testing and maintaining them with latest release ➢ Modeling and 
+optimization of functionalities like repair station, quality alert, audit, 
+order board, engine conversion, item assembly configuration ➢ Managing, 
+coordinating, planning and executing change request management from 
+functional perspective. ➢ Maximum level of Support for MES application to 
+maintain the production efficiency. ➢ Providing both on-site (local) and 
+remote support. ➢ Coordinates with Global team on the implementation of 
+new projects. ➢ Analyze, prioritize and resolve issues. ➢ Experience in 
+generating various kinds of reports based on the customer requirement with 
+graphical chart using SQL Server Reporting Service  DELCERATION I hereby 
+declare that the information contained herein is true to the best of my 
+knowledge and belief and that it is subject to verification.  Place: 
+Bangalore    (D. BALAJI)
+Software Engineer
+Flextronics
+Maximum level of Support for MES application to maintain the production 
+efficiency. ➢ Providing both on-site (local) and remote support. ➢ 
+Coordinates with Global team on the implementation of new projects. ➢ 
+Analyze, prioritize and resolve issues. ➢ Experience in generating 
+various kinds of reports based on the customer requirement with graphical 
+chart using SQL Server Reporting Service
+Education
+B. Tech in Mechanical Engineering in Mechanical Engineering
+Jawaharlal Nehru Technological University
+Skills
+.Net (1 year)
+ADO (2 years)
+MS SQL Server (2 years)
+SQL (2 years)
+SQL Server (2 years)
+Additional Information
+TECHNICAL SKILLSET  Programming Languages: C#.NET, ADO.NET Scripting 
+Languages: ASP.NET, HTML, CSS, JavaScript Database: MS-SQL Server 
+2008. Tools and Methodologies: Object oriented programming and methodology 
+(OOPM) and SDLC. Development Environment: Visual Studio 2010 Operating 
+System: Win 7/ Win XP/Win Server 2008
+Updated: 23 April 2018
+
+

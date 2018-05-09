@@ -1,0 +1,105 @@
+Software Engineer(ADP ) - HCL TECHNOLOGIES
+Chennai, Tamil Nadu
+To work in pragmatic way in an organization where I can show my talent and 
+enhance my skills to meet company goals and objective by doing smart work 
+with full integrity and zest
+Willing to relocate to: Chennai, Tamil Nadu
+Work Experience
+Software Engineer
+HCL Technologies
+June 2016 to Present
+Project Description: Brocade Virtual Traffic Manager is a software-based 
+application delivery controller (ADC) designed to deliver faster, high 
+performance user experience, with more reliable access to public websites 
+and enterprise applications, whether they run in a public cloud, private 
+cloud or virtualized environment, while maximizing the efficiency and 
+capacity of web and application servers.Â Â Responsibilities in VTM 
+Hermes:Â Automation:Â â€¢ Automated PERL scripts for Stateful L4-SLB - 
+Failure Pool featureÂ (IPV4 &amp; IPV6) for l4_accel_tcp, l4_accel_generic 
+and http protocols to ensure the continuous traffic flow without 
+loss.Â â€¢ Automated PERL scripts for UDP, TCP, Transparent/Source-nat 
+features.Â â€¢ Sanity run on major builds to ensure the functional 
+stability of the Virtual traffic manager for ESX and KVM hypervisor.Â â€¢ 
+Automation regression run done for daily, upgrade and GA VTM builds in 
+both ESX &amp; KVM covering basic features and functionality and report 
+the issues.Â Â Manual:Â â€¢ Manual Testing done in VTM on major builds 
+(TRAM/TRAVELLERS) for persitence, failure pool, icmp and SNAT Features, 
+L4-SLB stateful DNS, Interface events and Vlan sub-interfaces/ DPA, DNS, 
+failure pool,Â Â Responsibilities in ADX and VADX:Â â€¢ Reproduced 
+Customer found defects and verified the fix for the same in various 
+critical patch releases.Â â€¢ Done sanity testing for the STICKY, SNMP, 
+MULTITENANCY, DHCP, PREDICTOR, CSW, SIPand SLB MAXCONN features.Â â€¢ Done 
+Solution testing for patch releases by loading critical customer 
+configuration and tested SSL, DHCP, SSH, Inbound ACL, Predictors, 
+SSH.Â â€¢ Automation Regression run and failure analysis done across 
+different tesbed environment.Â â€¢ Load daily images and trigger 8hr 
+sanity to ensure the software quality.
+Software Engineer
+HCL Technologies Limited
+August 2014 to June 2016
+Project 1: Brocade IP-TESTING NOS (Network operating system) (SQA)Â Role: 
+Software Engineer (22-Aug 2014 to 15-June 2016)Â Project Description: 
+Brocade Network OS is a scalable network operating system for the Brocade 
+data center switching product. Brocade Virtual Cluster Switching (VCS) 
+fabrics are self-forming and self-healing, providing an operationally 
+scalable foundation for very large or dynamic cloud deployments. Multi-
+node fabrics can be managed as a single logical element, and fabrics can 
+be deployed and easily re-deployed in a variety of configurations 
+optimized to the needs of particular workloads.Â Â Responsibilities:Â â€¢ 
+Being the feature owner of REST API automated TCL scripts for  CLI 
+configuration in Switches and Router for Networking features (name it) to 
+ensure stabilty.Â â€¢ To ensure access of switches and router via GUI for 
+admins, manually configure the CLI  using REST API tools (Postman, Poster, 
+CURL commands, RPC) to test the functionality and report and track bugs 
+
+foundÂ â€¢ Automated TCL scripts for l2/l3 features, that configures CLI 
+via NETCONF (Network Configuration Protocol) and to test the functionality 
+and report bugÂ â€¢ Manual Testing for configuration of CLI using NETCONF 
+done using inhouse tool.Â â€¢ Worked on SNMP (SIMPLE NETWORK MANAGEMENT 
+PROTOCOL) on various layer 2 and layer 3 MIBs to monitor the switch 
+activities and stability with SNMP Manage engine MIB browser (GUI) and 
+Netsnmp commands (LINUX)Â â€¢ Tested Implementation of the Simple Network 
+Management Protocol (SNMP agents) for and standard and private MIBs 
+(Management Information Bases) using SilverCreek Authoritative SNMP Test 
+Suite.Â â€¢ Worked in Brocade Preparatory tool BNA (Brocade Network 
+Advisor) to proactively manage end-to-end network health, performance and 
+to troubleshoot.Â â€¢ Regression testing (both Manual and Automation) done 
+across major releases for REST API and NETCONF Manageability protocol to 
+ensure the software quality and new issues hit are reported and 
+tracked.Â â€¢ Perform Soak test on every weekend to analyze switch stress/ 
+error/ bulk configuration handling ability and to identify serious memory 
+leaks, Operating system crash, efficiency /response time issues in 
+dut.Â â€¢ Scalability test done for analyzing the ability to handle 
+maximum users and configuration   that has predefined limit.Â â€¢ 
+Troubleshooting scripts for quality.Â â€¢ Reported and tracked bugs using 
+QMS Team track tool, replicated reported customer bugs, verified bug fixes 
+and new functionalities, regression tested new releases, supported 
+developers by examining logs and debug files.Â â€¢ Assisted in training 
+junior automation test engineers.Â â€¢ Environment and functionality 
+issues troubleshooting.Â â€¢ Firmware upgrade downgrade test.
+Education
+B.E in Computer Science Engineering
+SRM Valliammai Engineering College
+Chennai, Tamil Nadu
+2014
+SSLC
+St. Theresa's Girls Higher Secondary School
+2008
+Skills
+Perl,python,tcl (3 years)
+Virtualization (2 years)
+Automation Testing, manual testing (3 years)
+SNMP (3 years)
+Rest API,Netcong,SNMP,vmware (3 years)
+Additional Information
+Technical SkillsÂ â€¢ Protocols: NETCONF and REST APIÂ â€¢ Tools: SNMP 
+Manage engine MIB browser, NETSNMP, In-house tool - netconf, Silver creek 
+SNMP tool, Wireshark, Colasoft Packet Player/builder, Postman tool (rest 
+api)Â â€¢ Virtualization: ESX, KVM, VMware vsphere client 5.0, VMware 
+vcenter serverÂ â€¢ Traffic Generators: IXIAÂ â€¢ Languages: TCL, Perl, 
+pythonÂ â€¢ Brocade devices: Callisto, Carme, CASTOR, Mercury M4, and 
+Mercury M8, VTM Hermes (check), ADX, VADXÂ â€¢ Bug Tracking: Jira, QMS 
+teamtrack.Â â€¢ Code view and Review: Atlassian Crucible and FishEye
+Updated: 23 April 2018
+
+

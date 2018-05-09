@@ -1,0 +1,64 @@
+Job Description Send me Jobs like this
+Software Engineer/ Senior Software Engineer - C/ C++/ Java (3-8 yrs)
+
+Software Engineer/ Sr. Software Engineer
+
+Function/Group: R&D
+
+Experience: 3-8 yrs.
+
+What will you be doing?
+
+- Participate in Problem definition, come out with solutions, design spec creation and root cause analysis for fixes
+
+- Drive quality output with the team
+
+- Ensure teams follow processes defined for the function/project
+
+- Plan, prioritize, assign, track work with team
+
+- Execute Unit Testing of the code
+
+- Execute iterations of Integration Testing
+
+- Track work progress and quality through efficient review & acceptance frameworks
+
+- Ensure team delivery high quality code as per spec
+
+- Monitor the development process to drive output quality
+
+- Coordinate & lead team meeting to Plan and schedule the work for team members and break down assignments into tasks
+
+- Understand Technical specifications and complete the assignments given with guidance
+
+- Deliver high quality formally tested code
+
+- Follows prevailing practices regarding documentation, coding standards, development tools
+
+- Understand and use the overall development approach of the organization
+
+- Create low level design - flowcharts, layouts, diagrams, charts
+
+Who are we looking for?
+
+- Should have strong hands on experience on systems programming with C/C++ or JAVA
+
+- Good understanding of data structures, algorithms and design patterns
+
+- Good knowledge of Data Structures, Algorithms, Database, Object Oriented Programming, OS Concepts, Software Requirement Analysis, Design and Architecture, Software Testing
+
+- Ability to pick up new technologies rapidly, to convert specs to low level design
+
+- Follows prevailing practices regarding documentation, coding standards, development tools
+
+- Good knowledge of UML, Data Structures, Algorithms, Database, Object Oriented Programming, Software Design, Software Documentation, Software Testing
+
+- Good knowledge of Software Development Fundamentals, Software Development Process
+
+- Software Profiling and Performance tuning
+
+- Follows prevailing practices regarding documentation, coding standards, development tools
+
+- Some Business Process like Retail, Sales, Order-Cash
+
+- Programming in High level language / Scripting
